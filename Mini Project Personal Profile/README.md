@@ -22,4 +22,6 @@ Software Engineering Student at ASTU
 
 #This how it look like the personale profile page:
 
-![Profile Picture](assets/screenshot.jpg)
+<img width="2196" height="1064" alt="Screenshot 2025-12-15 165259" src="https://github.com/user-attachments/assets/959b1e34-13f4-4ac9-ba82-6aac49dc311e" />
+
+
