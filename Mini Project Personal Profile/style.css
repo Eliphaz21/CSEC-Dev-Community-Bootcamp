@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e1cbcb;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header img {
+  width: 120px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  max-width: 500px;
+  line-height: 1.6;
+}
+
+input, textarea {
+  width: 300px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
